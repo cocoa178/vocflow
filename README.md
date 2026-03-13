@@ -25,13 +25,6 @@ CSV/TXT 파일 업로드 또는 직접 붙여넣기로 VOC 데이터를 입력�
 
 https://cocoa178.github.io/vocflow/
 
-## 실행 방법
-
-```bash
-npm install
-npm run dev
-```
-
 ## 기타
 
 - 다크모드 지원
